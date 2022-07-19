@@ -1,0 +1,13 @@
+http://localhost:3000/players
+
+###
+http://localhost:3000/players/
+Content-Type: application/json;
+
+{
+    "playerName":"vishal",
+    "jerseyNumber":17,
+    "role":"Bowler"
+}
+###
+http://localhost:3000/players/5
